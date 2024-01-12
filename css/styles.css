@@ -65,9 +65,6 @@ header {
 
 }
 
-.link {
-  text-decoration: none;
-}
 
 .caption-link {
   position: relative;
@@ -460,6 +457,7 @@ footer {
  letter-spacing: 0.02em;
  color: var(--footer-color);
  max-width: 264px;
+ margin-top: 16px;
 }
 
 button {
@@ -671,10 +669,6 @@ justify-content: space-between;
   height: 40px;
   background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1); ;
   list-style-type: none;
-}
-
-.footer-text {
-  margin-top: 16px;
 }
 
 .social-media-footer-link {
